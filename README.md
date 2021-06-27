@@ -55,7 +55,7 @@ _Check out below fun projects too!_
 
 ## Repos without any actual (valuable) content
 [giftcode-bot-amazon](https://github.com/spookyahell/giftcode-bot-amazon) - _Last modified: 2020-11-22_
-_code not commited until this point_
+<br>_code not commited until this point_
 
 [TelegramTwitterBot](https://github.com/spookyahell/TelegramTwitterBot) - _Last modified: 2019-05-17_
 <br>_planned Project, for user interaction_
