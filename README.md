@@ -50,8 +50,8 @@ _Check out below fun projects too!_
 [youtube-fetch-sample](https://github.com/spookyahell/youtube-fetch-sample) - _Last modified: 2020-12-04_
 <br>_Attempting to mainly mock GitHub._
 
-[dmca](https://github.com/spookyahell/dmca)
-Only [fix linebreaks](https://github.com/spookyahell/dmca/commit/0664813c07a2e1f04347247bb55f85981a3b6d94) of a dear friend who understands the fun that github *can* provide
+[dmca](https://github.com/spookyahell/dmca) [fork] - _Last modified: 2020-10-24_
+<br>Only [fix linebreaks](https://github.com/spookyahell/dmca/commit/0664813c07a2e1f04347247bb55f85981a3b6d94) of a dear friend who understands the fun that github.com *can* provide
 
 ## Repos without any actual (valuable) content
 [giftcode-bot-amazon](https://github.com/spookyahell/giftcode-bot-amazon) - _Last modified: 2020-11-22_
